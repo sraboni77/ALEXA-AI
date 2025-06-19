@@ -1,4 +1,4 @@
-
+ 
 # ALEXA-AI
 RESEARCH PAPER 
 https://docs.google.com/document/d/1wlliLgXJPZQrAddSoRayYOE4ZTe4TA_-/edit?usp=drivesdk&ouid=100458552978499837577&rtpof=true&sd=true
@@ -19,24 +19,25 @@ University: Shanto-Mariam University of Creative Technology
 
  Features
 
- Play YouTube videos by voice command  
- Tell the current time  
- Fetch summary information from Wikipedia  
- Tell jokes using `pyjokes`  
- Respond to fun personal questions  
- Listens for "Alexa" in commands before responding  
+1. Play YouTube videos by voice command  
+2. Tell the current time  
+3. Fetch summary information from Wikipedia  
+4. Tell jokes using `pyjokes`  
+5. Respond to fun personal questions  
+6. Listens for "Alexa" in commands before responding  
 
 
 
  Technologies Used
 
  Python 3.x  
-speech_recognition` for voice input  
-pyttsx3` for text-to-speech  
-pywhatkit` to play YouTube videos  
-wikipedia` API for fetching information  
-pyjokes` for jokes  
-pyaudio` for microphone access  
+
+1.speech_recognition` for voice input  
+2.pyttsx3` for text-to-speech  
+3.pywhatkit` to play YouTube videos  
+4.wikipedia` API for fetching information  
+5.pyjokes` for jokes  
+6.pyaudio` for microphone access  
 
 
 Required Python Packages
